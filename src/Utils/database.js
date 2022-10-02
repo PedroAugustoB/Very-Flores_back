@@ -1,8 +1,8 @@
 export const sqlConfig = {
-    server: '10.68.102.4', //escola 10.68.102.4
+    server: 'localhost', //escola 10.68.102.4
     port: 1433,
     user: 'sa',
-    password: 'Admin2018@',
+    password: 'pedro', //Admin2018@
     database: 'VeryFlores',
     options: {
       enableArithAbort : true,
